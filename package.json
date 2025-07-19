@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Learning Node, Express and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-gunner/Natours.git"
+  },
+  "author": "Ali Ranjbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-gunner/Natours/issues"
+  },
+  "homepage": "https://github.com/Ali-gunner/Natours#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
